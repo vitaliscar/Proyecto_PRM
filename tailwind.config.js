@@ -4,7 +4,8 @@ module.exports = {
   content: [
     './index.html',
     './src/**/*.{js,ts,jsx,tsx}', // Scan all source files for Tailwind classes
-  ],
+      "*.{js,ts,jsx,tsx,mdx}"
+],
   theme: {
     extend: {
       colors: {

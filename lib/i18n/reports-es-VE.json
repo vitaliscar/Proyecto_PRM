@@ -1,0 +1,54 @@
+{
+  "reports": {
+    "title": "Reportes y Analítica",
+    "subtitle": "Dashboard con gráficos y métricas del centro psicológico",
+    "dashboard_title": "Dashboard de Reportes y Analítica",
+    "loading": "Cargando reportes...",
+    "error": "Error al cargar los reportes. Por favor, intenta nuevamente.",
+    "no_reports": "No hay reportes disponibles",
+    "no_reports_description": "No se encontraron reportes para el período seleccionado.",
+    "period": {
+      "daily": "Diario",
+      "weekly": "Semanal",
+      "monthly": "Mensual",
+      "yearly": "Anual",
+      "showing": "Mostrando datos del período:"
+    },
+    "actions": {
+      "refresh": "Actualizar",
+      "export": "Exportar"
+    },
+    "metrics": {
+      "total_patients": "Total Pacientes",
+      "total_appointments": "Total Citas",
+      "total_revenue": "Ingresos Totales",
+      "average_rating": "Calificación Promedio",
+      "growth_rate": "Tasa de Crecimiento",
+      "completion_rate": "Tasa de Finalización",
+      "vs_previous": "vs mes anterior"
+    },
+    "charts": {
+      "appointments_by_month": "Citas por Mes",
+      "patient_evolution": "Evolución de Pacientes",
+      "revenue_by_service": "Ingresos por Servicio",
+      "patient_satisfaction": "Satisfacción del Paciente",
+      "completed_appointments": "Citas Completadas",
+      "cancelled_appointments": "Citas Canceladas",
+      "active_patients": "Pacientes Activos",
+      "individual_consultation": "Consulta Individual",
+      "couple_therapy": "Terapia de Pareja",
+      "evaluation": "Evaluación",
+      "family_therapy": "Terapia Familiar",
+      "very_satisfied": "Muy Satisfecho",
+      "satisfied": "Satisfecho",
+      "neutral": "Neutral",
+      "unsatisfied": "Insatisfecho"
+    },
+    "summary": {
+      "title": "Resumen del Período",
+      "reports_generated": "Reportes Generados",
+      "active_patients": "Pacientes Activos",
+      "completion_rate": "Tasa de Finalización"
+    }
+  }
+}

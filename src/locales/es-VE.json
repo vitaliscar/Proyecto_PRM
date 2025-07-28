@@ -1,0 +1,67 @@
+{
+  "marketing": {
+    "leads": {
+      "title": "Leads",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "status": "Estado",
+      "filter": "Filtrar",
+      "actions": "Acciones"
+    },
+    "campaigns": {
+      "title": "Campañas",
+      "name": "Nombre",
+      "channel": "Canal",
+      "content": "Contenido",
+      "submit": "Crear Campaña"
+    }
+  },
+  "billing": {
+    "invoices": {
+      "title": "Facturas",
+      "patient": "Paciente",
+      "amount": "Monto",
+      "status": "Estado",
+      "actions": "Acciones"
+    },
+    "payments": {
+      "title": "Pagos",
+      "patient": "Paciente",
+      "amount": "Monto",
+      "method": "Método",
+      "submit": "Registrar Pago"
+    }
+  },
+  "reports": {
+    "title": "Reportes",
+    "patients": "Pacientes",
+    "appointments": "Citas"
+  },
+  "resources": {
+    "title": "Recursos",
+    "type": "Tipo",
+    "name": "Nombre",
+    "status": "Estado",
+    "actions": "Acciones"
+  },
+  "community": {
+    "title": "Comunidad",
+    "thread": "Hilo",
+    "author": "Autor",
+    "messages": "Mensajes"
+  },
+  "telehealth": {
+    "title": "Teleterapia",
+    "join": "Unirse a la Sesión"
+  },
+  "gamification": {
+    "title": "Gamificación",
+    "points": "Puntos"
+  },
+  "progress": {
+    "title": "Progreso",
+    "goal": "Meta",
+    "progress": "Progreso",
+    "prediction": "Predicción"
+  }
+}

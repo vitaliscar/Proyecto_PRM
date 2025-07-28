@@ -1,0 +1,62 @@
+{
+  "auth": {
+    "login": {
+      "title": "Proyecto Creces y Asociados",
+      "subtitle": "Sistema de Gestión de Relaciones con Pacientes",
+      "cedula": "Cédula de Identidad",
+      "cedulaPlaceholder": "V-12345678",
+      "password": "Contraseña",
+      "passwordPlaceholder": "Ingresa tu contraseña",
+      "loginButton": "Iniciar Sesión",
+      "loggingIn": "Iniciando sesión...",
+      "testCredentials": "Credenciales de prueba:",
+      "administrator": "Administrador",
+      "psychologist": "Psicólogo",
+      "receptionist": "Recepcionista",
+      "patient": "Paciente"
+    },
+    "roles": {
+      "title": "Gestión de Roles",
+      "description": "Configura los roles y permisos de los usuarios del sistema",
+      "user": "Usuario",
+      "cedula": "Cédula",
+      "role": "Rol",
+      "status": "Estado",
+      "lastAccess": "Último Acceso",
+      "permissions": "Permisos",
+      "actions": "Acciones",
+      "active": "Activo",
+      "inactive": "Inactivo",
+      "never": "Nunca",
+      "changeRole": "Cambiar Rol",
+      "viewProfile": "Ver Perfil",
+      "activate": "Activar",
+      "deactivate": "Desactivar",
+      "loading": "Cargando usuarios...",
+      "error": "Error al cargar usuarios",
+      "roleUpdated": "Rol actualizado exitosamente",
+      "updateError": "Error al actualizar rol"
+    },
+    "validation": {
+      "cedulaRequired": "La cédula es requerida",
+      "cedulaInvalid": "Formato de cédula inválido (ej: V-12345678)",
+      "passwordRequired": "La contraseña es requerida",
+      "passwordMinLength": "La contraseña debe tener al menos 6 caracteres",
+      "userIdRequired": "ID de usuario requerido",
+      "invalidRole": "Rol inválido"
+    },
+    "errors": {
+      "loginFailed": "Error de autenticación",
+      "cedulaNotFound": "Cédula no encontrada",
+      "userInactive": "Usuario inactivo",
+      "wrongPassword": "Contraseña incorrecta",
+      "serverError": "Error en el servidor",
+      "networkError": "Error de conexión"
+    },
+    "success": {
+      "loginSuccess": "Inicio de sesión exitoso",
+      "welcome": "Bienvenido",
+      "logoutSuccess": "Sesión cerrada exitosamente"
+    }
+  }
+}

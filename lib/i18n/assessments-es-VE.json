@@ -1,0 +1,79 @@
+{
+  "assessments": {
+    "title": "Evaluaciones Psicológicas",
+    "description": "Administra cuestionarios estandarizados y analiza resultados",
+    "new": "Nueva Evaluación",
+    "view": "Ver Evaluación",
+    "search": "Buscar por paciente o tipo...",
+    "filter": "Filtrar",
+    "all_types": "Todos los tipos",
+    "all_risks": "Todos los niveles",
+    "no_assessments": "No hay evaluaciones registradas",
+    "no_results": "No se encontraron evaluaciones con los filtros aplicados",
+    "showing_results": "Mostrando {{count}} de {{total}} evaluaciones",
+    "types": {
+      "PHQ-9": "PHQ-9 (Depresión)",
+      "GAD-7": "GAD-7 (Ansiedad)",
+      "SDQ": "SDQ (Capacidades)",
+      "DASS-21": "DASS-21 (Depresión, Ansiedad, Estrés)",
+      "PSS-10": "PSS-10 (Estrés Percibido)"
+    },
+    "status": {
+      "pending": "Pendiente",
+      "in_progress": "En Progreso",
+      "completed": "Completada",
+      "cancelled": "Cancelada"
+    },
+    "risk_levels": {
+      "low": "Bajo Riesgo",
+      "medium": "Riesgo Medio",
+      "high": "Alto Riesgo",
+      "critical": "Riesgo Crítico"
+    },
+    "form": {
+      "patient": "Paciente",
+      "type": "Tipo de Evaluación",
+      "select_patient": "Selecciona un paciente",
+      "select_type": "Selecciona una evaluación",
+      "progress": "Progreso",
+      "current_score": "Puntaje Actual",
+      "preliminary_interpretation": "Interpretación Preliminar",
+      "complete_all": "Completa todas las preguntas para continuar",
+      "questions_answered": "{{answered}}/{{total}} respondidas"
+    },
+    "details": {
+      "results": "Resultados de la Evaluación",
+      "recommendations": "Recomendaciones Clínicas",
+      "detailed_responses": "Respuestas Detalladas",
+      "patient_info": "Información del Paciente",
+      "assessment_details": "Detalles de la Evaluación",
+      "system_info": "Información del Sistema"
+    },
+    "actions": {
+      "complete": "Completar Evaluación",
+      "export_pdf": "Exportar PDF",
+      "share": "Compartir",
+      "schedule_followup": "Programar Seguimiento",
+      "view_profile": "Ver Perfil Completo",
+      "view_history": "Historial de Citas",
+      "other_assessments": "Otras Evaluaciones",
+      "cancel": "Cancelar",
+      "back": "Volver"
+    },
+    "messages": {
+      "completed": "Evaluación completada exitosamente",
+      "updated": "Evaluación actualizada exitosamente",
+      "deleted": "Evaluación eliminada exitosamente",
+      "error_create": "Error al completar la evaluación",
+      "error_update": "Error al actualizar la evaluación",
+      "error_delete": "Error al eliminar la evaluación",
+      "error_load": "Error al cargar la evaluación"
+    },
+    "alerts": {
+      "high_risk": "Requiere atención prioritaria",
+      "critical_risk": "ALERTA CRÍTICA - Intervención inmediata",
+      "processing": "Procesando evaluación...",
+      "saving": "Guardando respuestas..."
+    }
+  }
+}

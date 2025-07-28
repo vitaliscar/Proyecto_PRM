@@ -1,0 +1,80 @@
+{
+  "patients": {
+    "title": "Gestión de Pacientes",
+    "description": "Administra la información de tus pacientes de manera segura",
+    "new": "Nuevo Paciente",
+    "edit": "Editar Paciente",
+    "view": "Ver Paciente",
+    "search": "Buscar por nombre o cédula...",
+    "filter": "Filtrar por estado",
+    "all_statuses": "Todos los estados",
+    "active": "Activos",
+    "inactive": "Inactivos",
+    "waiting": "En Espera",
+    "no_patients": "No hay pacientes registrados",
+    "no_results": "No se encontraron pacientes con los filtros aplicados",
+    "showing_results": "Mostrando {{count}} de {{total}} pacientes",
+    "fields": {
+      "cedula": "Cédula de Identidad",
+      "name": "Nombre Completo",
+      "birthDate": "Fecha de Nacimiento",
+      "gender": "Género",
+      "phone": "Teléfono",
+      "email": "Correo Electrónico",
+      "address": "Dirección",
+      "emergencyContact": "Contacto de Emergencia",
+      "medicalHistory": "Historia Médica",
+      "clinicalNotes": "Notas Clínicas",
+      "status": "Estado"
+    },
+    "placeholders": {
+      "cedula": "V-12345678",
+      "name": "Juan Carlos Pérez",
+      "birthDate": "DD/MM/YYYY",
+      "phone": "+58-412-1234567",
+      "email": "correo@ejemplo.com",
+      "address": "Av. Libertador, Caracas, Miranda",
+      "emergencyContact": "María Pérez - +58-414-7654321",
+      "medicalHistory": "Diagnósticos previos, tratamientos, alergias...",
+      "clinicalNotes": "Observaciones del psicólogo..."
+    },
+    "actions": {
+      "create": "Crear Paciente",
+      "update": "Actualizar Paciente",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "back": "Volver",
+      "view_details": "Ver detalles",
+      "edit": "Editar",
+      "call": "Llamar",
+      "email": "Email",
+      "schedule": "Programar Cita"
+    },
+    "status": {
+      "active": "Activo",
+      "inactive": "Inactivo",
+      "waiting": "En Espera"
+    },
+    "gender": {
+      "male": "Masculino",
+      "female": "Femenino",
+      "other": "Otro"
+    },
+    "consents": {
+      "title": "Consentimientos",
+      "approved": "Aprobado",
+      "pending": "Pendiente",
+      "rejected": "Rechazado",
+      "download": "Descargar"
+    },
+    "messages": {
+      "created": "Paciente creado exitosamente",
+      "updated": "Paciente actualizado exitosamente",
+      "deleted": "Paciente eliminado exitosamente",
+      "error_create": "Error al crear el paciente",
+      "error_update": "Error al actualizar el paciente",
+      "error_delete": "Error al eliminar el paciente",
+      "error_load": "Error al cargar la información del paciente"
+    }
+  }
+}

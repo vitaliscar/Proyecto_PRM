@@ -1,0 +1,92 @@
+{
+  "billing": {
+    "invoices": {
+      "title": "Gestión de Facturas",
+      "subtitle": "Administra facturas, pagos y estados de cuenta",
+      "search_placeholder": "Buscar por paciente, descripción o ID...",
+      "filter_status": "Filtrar por estado",
+      "filter_currency": "Filtrar por moneda",
+      "all_statuses": "Todos los estados",
+      "all_currencies": "Todas las monedas",
+      "total_invoices": "Total Facturas",
+      "paid": "Pagadas",
+      "pending": "Pendientes",
+      "overdue": "Vencidas",
+      "revenue_usd": "Ingresos USD",
+      "revenue_ves": "Ingresos VES",
+      "no_results": "No se encontraron facturas que coincidan con los filtros aplicados.",
+      "loading": "Cargando facturas...",
+      "error": "Error al cargar las facturas. Por favor, intenta nuevamente.",
+      "status": {
+        "pending": "Pendiente",
+        "paid": "Pagado",
+        "overdue": "Vencido",
+        "cancelled": "Cancelado"
+      },
+      "table": {
+        "id": "ID",
+        "patient": "Paciente",
+        "description": "Descripción",
+        "amount": "Monto",
+        "status": "Estado",
+        "due_date": "Vencimiento",
+        "actions": "Acciones"
+      }
+    },
+    "payments": {
+      "title": "Registro de Pagos",
+      "subtitle": "Registra pagos móviles, Zelle y otros métodos de pago",
+      "register_title": "Registrar Pago",
+      "form": {
+        "invoice": "Factura a Pagar",
+        "invoice_placeholder": "Selecciona una factura pendiente",
+        "amount": "Monto",
+        "currency": "Moneda",
+        "method": "Método de Pago",
+        "reference": "Número de Referencia",
+        "reference_placeholder": "Ej: 123456789 o REF-ABC123",
+        "reference_help": "Número de confirmación o referencia del pago",
+        "bank": "Banco",
+        "bank_placeholder": "Selecciona el banco",
+        "phone": "Teléfono",
+        "phone_placeholder": "+584121234567",
+        "phone_help": "Teléfono desde el cual se realizó el pago móvil",
+        "email": "Email",
+        "email_placeholder": "usuario@email.com",
+        "email_help": "Email asociado a la cuenta Zelle",
+        "clear": "Limpiar",
+        "register": "Registrar Pago",
+        "processing": "Procesando...",
+        "success": "Pago registrado exitosamente"
+      },
+      "methods": {
+        "pago_movil": {
+          "label": "Pago Móvil",
+          "description": "Transferencia desde app bancaria"
+        },
+        "zelle": {
+          "label": "Zelle",
+          "description": "Transferencia internacional USD"
+        },
+        "transferencia": {
+          "label": "Transferencia",
+          "description": "Transferencia bancaria tradicional"
+        },
+        "efectivo": {
+          "label": "Efectivo",
+          "description": "Pago en efectivo en oficina"
+        },
+        "tarjeta": {
+          "label": "Tarjeta",
+          "description": "Pago con tarjeta de débito/crédito"
+        }
+      },
+      "invoice_details": {
+        "patient": "Paciente",
+        "description": "Descripción",
+        "amount": "Monto",
+        "due_date": "Vencimiento"
+      }
+    }
+  }
+}

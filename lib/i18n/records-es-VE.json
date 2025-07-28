@@ -1,0 +1,101 @@
+{
+  "records": {
+    "title": "Historias Clínicas",
+    "description": "Gestión profesional de historias clínicas",
+    "new": "Nueva Historia",
+    "edit": "Editar Historia",
+    "view": "Ver Historia",
+    "search": "Buscar por paciente o diagnóstico...",
+    "no_records": "No hay historias clínicas registradas",
+    "no_results": "No se encontraron historias con los filtros aplicados",
+    "showing_results": "Mostrando {{count}} de {{total}} historias",
+
+    "sections": {
+      "diagnosis": "Diagnóstico Principal",
+      "treatment": "Plan de Tratamiento",
+      "notes": "Notas de Sesión",
+      "evaluation": "Evaluaciones y Escalas",
+      "plan": "Plan de Seguimiento",
+      "history": "Historia y Antecedentes"
+    },
+
+    "placeholders": {
+      "diagnosis": "Ingrese el diagnóstico principal, criterios diagnósticos, diagnósticos diferenciales y comorbilidades...",
+      "treatment": "Describa el plan de tratamiento, objetivos terapéuticos, intervenciones y medicación...",
+      "notes": "Registre las notas de sesión, observaciones clínicas y evolución del paciente...",
+      "evaluation": "Documente las evaluaciones realizadas, escalas aplicadas y resultados obtenidos...",
+      "plan": "Establezca el plan de seguimiento, objetivos a corto y largo plazo...",
+      "history": "Registre la historia clínica, antecedentes personales y familiares..."
+    },
+
+    "actions": {
+      "create": "Crear Historia",
+      "update": "Actualizar Historia",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "edit": "Editar",
+      "back": "Volver",
+      "export": "Exportar PDF",
+      "share": "Compartir",
+      "archive": "Archivar",
+      "restore": "Restaurar"
+    },
+
+    "status": {
+      "active": "Activa",
+      "archived": "Archivada",
+      "locked": "Bloqueada"
+    },
+
+    "audit": {
+      "title": "Registro de Auditoría",
+      "actions": {
+        "create": "Creado",
+        "edit": "Editado",
+        "delete": "Eliminado",
+        "view": "Visualizado",
+        "archive": "Archivado",
+        "restore": "Restaurado"
+      },
+      "no_entries": "No hay registros de auditoría disponibles",
+      "field": "Campo",
+      "old_value": "Valor anterior",
+      "new_value": "Valor nuevo",
+      "user": "Usuario",
+      "date": "Fecha",
+      "ip": "Dirección IP"
+    },
+
+    "editing": {
+      "unsaved_changes": "Sin guardar",
+      "saving": "Guardando...",
+      "saved": "Guardado",
+      "auto_save": "Guardado automático",
+      "edit_mode": "Modo edición",
+      "view_mode": "Modo vista"
+    },
+
+    "messages": {
+      "created": "Historia clínica creada exitosamente",
+      "updated": "Historia clínica actualizada exitosamente",
+      "section_updated": "Sección actualizada correctamente",
+      "deleted": "Historia clínica eliminada exitosamente",
+      "archived": "Historia clínica archivada exitosamente",
+      "restored": "Historia clínica restaurada exitosamente",
+      "error_create": "Error al crear la historia clínica",
+      "error_update": "Error al actualizar la historia clínica",
+      "error_delete": "Error al eliminar la historia clínica",
+      "error_load": "Error al cargar la historia clínica",
+      "error_save": "Error al guardar los cambios",
+      "confirm_delete": "¿Está seguro de que desea eliminar esta historia clínica?",
+      "confirm_archive": "¿Está seguro de que desea archivar esta historia clínica?"
+    },
+
+    "validation": {
+      "required_field": "Este campo es obligatorio",
+      "min_length": "Debe tener al menos {{min}} caracteres",
+      "max_length": "No puede exceder {{max}} caracteres",
+      "invalid_format": "Formato inválido"
+    }
+  }
+}

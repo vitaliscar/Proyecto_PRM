@@ -1,0 +1,90 @@
+{
+  "marketing": {
+    "leads": {
+      "title": "Gestión de Leads",
+      "subtitle": "Administra y da seguimiento a todos los leads potenciales",
+      "search_placeholder": "Buscar por nombre, email o teléfono...",
+      "filter_status": "Filtrar por estado",
+      "filter_source": "Filtrar por fuente",
+      "all_statuses": "Todos los estados",
+      "all_sources": "Todas las fuentes",
+      "total_leads": "Total Leads",
+      "converted": "Convertidos",
+      "contacted": "Contactados",
+      "qualified": "Calificados",
+      "no_results": "No se encontraron leads que coincidan con los filtros aplicados.",
+      "loading": "Cargando leads...",
+      "error": "Error al cargar los leads. Por favor, intenta nuevamente.",
+      "status": {
+        "new": "Nuevo",
+        "contacted": "Contactado",
+        "qualified": "Calificado",
+        "converted": "Convertido",
+        "lost": "Perdido"
+      },
+      "table": {
+        "name": "Nombre",
+        "contact": "Contacto",
+        "status": "Estado",
+        "source": "Fuente",
+        "score": "Score",
+        "last_contact": "Último Contacto",
+        "actions": "Acciones",
+        "no_contact": "Sin contacto"
+      }
+    },
+    "campaigns": {
+      "title": "Campañas de Marketing",
+      "subtitle": "Crea y gestiona campañas de email, SMS y WhatsApp",
+      "create_title": "Crear Nueva Campaña",
+      "form": {
+        "name": "Nombre de la Campaña",
+        "name_placeholder": "Ej: Campaña de Bienvenida Enero 2025",
+        "type": "Tipo de Campaña",
+        "subject": "Asunto del Email",
+        "subject_placeholder": "Ej: Bienvenido a CRECES - Tu bienestar es nuestra prioridad",
+        "content": "Contenido del",
+        "content_variables": "Variables disponibles: {nombre}, {fecha}, {hora}",
+        "target_audience": "Audiencia Objetivo",
+        "scheduled_date": "Programar Envío (Opcional)",
+        "scheduled_help": "Deja vacío para enviar inmediatamente",
+        "clear": "Limpiar",
+        "create": "Crear Campaña",
+        "creating": "Creando...",
+        "success": "Campaña creada exitosamente"
+      },
+      "types": {
+        "email": {
+          "label": "Email",
+          "description": "Envío masivo de correos electrónicos"
+        },
+        "sms": {
+          "label": "SMS",
+          "description": "Mensajes de texto a móviles"
+        },
+        "whatsapp": {
+          "label": "WhatsApp",
+          "description": "Mensajes por WhatsApp Business"
+        }
+      },
+      "audience": {
+        "new": {
+          "label": "Leads Nuevos",
+          "description": "Personas que acaban de registrarse"
+        },
+        "contacted": {
+          "label": "Contactados",
+          "description": "Leads que ya fueron contactados"
+        },
+        "qualified": {
+          "label": "Calificados",
+          "description": "Leads con alta probabilidad de conversión"
+        },
+        "converted": {
+          "label": "Convertidos",
+          "description": "Clientes que ya agendaron citas"
+        }
+      }
+    }
+  }
+}

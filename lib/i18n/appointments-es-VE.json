@@ -1,0 +1,100 @@
+{
+  "appointments": {
+    "title": "Gestión de Citas",
+    "description": "Administra y programa las citas de tus pacientes",
+    "new": "Nueva Cita",
+    "edit": "Editar Cita",
+    "view": "Ver Cita",
+    "calendar": "Calendario",
+    "list": "Lista",
+    "search": "Buscar por paciente o psicólogo...",
+    "filter": "Filtrar",
+    "all_types": "Todos los tipos",
+    "all_statuses": "Todos los estados",
+    "no_appointments": "No hay citas programadas",
+    "no_results": "No se encontraron citas con los filtros aplicados",
+    "showing_results": "Mostrando {{count}} de {{total}} citas",
+    "types": {
+      "presencial": "Presencial",
+      "virtual": "Virtual",
+      "telefonica": "Telefónica"
+    },
+    "status": {
+      "scheduled": "Programada",
+      "confirmed": "Confirmada",
+      "completed": "Completada",
+      "cancelled": "Cancelada",
+      "no_show": "No Asistió"
+    },
+    "form": {
+      "patient": "Paciente",
+      "psychologist": "Psicólogo",
+      "date": "Fecha",
+      "time": "Hora",
+      "duration": "Duración (minutos)",
+      "type": "Tipo de Cita",
+      "room": "Sala",
+      "virtual_link": "Enlace de Reunión",
+      "notes": "Notas",
+      "select_patient": "Selecciona un paciente",
+      "select_psychologist": "Selecciona un psicólogo",
+      "select_time": "Selecciona la hora",
+      "select_room": "Selecciona una sala",
+      "basic_info": "Información Básica",
+      "date_time": "Fecha y Hora",
+      "appointment_type": "Tipo de Cita",
+      "additional_notes": "Notas Adicionales"
+    },
+    "details": {
+      "appointment_info": "Información de la Cita",
+      "patient_info": "Información del Paciente",
+      "psychologist_assigned": "Psicólogo Asignado",
+      "quick_actions": "Acciones Rápidas",
+      "system_info": "Información del Sistema"
+    },
+    "actions": {
+      "create": "Crear Cita",
+      "update": "Actualizar Cita",
+      "confirm": "Confirmar",
+      "cancel": "Cancelar",
+      "reschedule": "Reprogramar",
+      "duplicate": "Duplicar Cita",
+      "send_reminder": "Enviar Recordatorio",
+      "session_notes": "Notas de Sesión",
+      "join_meeting": "Unirse a la reunión",
+      "copy_link": "Copiar enlace",
+      "view_profile": "Ver Perfil",
+      "contact": "Contactar",
+      "back": "Volver"
+    },
+    "calendar": {
+      "today": "Hoy",
+      "month": "Mes",
+      "week": "Semana",
+      "day": "Día",
+      "no_appointments_day": "No hay citas programadas para este día",
+      "schedule_appointment": "Programar Cita",
+      "legend": "Leyenda"
+    },
+    "messages": {
+      "created": "Cita creada exitosamente",
+      "updated": "Cita actualizada exitosamente",
+      "confirmed": "Cita confirmada exitosamente",
+      "cancelled": "Cita cancelada exitosamente",
+      "deleted": "Cita eliminada exitosamente",
+      "error_create": "Error al crear la cita",
+      "error_update": "Error al actualizar la cita",
+      "error_confirm": "Error al confirmar la cita",
+      "error_cancel": "Error al cancelar la cita",
+      "error_delete": "Error al eliminar la cita",
+      "error_load": "Error al cargar la cita"
+    },
+    "alerts": {
+      "cancelled": "Esta cita ha sido cancelada",
+      "reminder_pending": "Recordatorio pendiente de envío",
+      "virtual_info": "Sesión por videollamada - Requiere enlace de reunión",
+      "presencial_info": "Sesión en las instalaciones - Requiere asignación de sala",
+      "telefonica_info": "Sesión por llamada telefónica - Sin requerimientos adicionales"
+    }
+  }
+}

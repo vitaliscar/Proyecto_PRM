@@ -1,0 +1,110 @@
+{
+  "agenda": {
+    "title": "Agenda Inteligente",
+    "description": "Panel optimizado para tu día de trabajo",
+    "today": "Hoy",
+    "refresh": "Actualizar",
+    "view_calendar": "Ver Calendario",
+    "loading": "Cargando agenda inteligente...",
+    "analyzing": "Analizando datos del día",
+    "error": "Error al cargar la agenda",
+    "error_description": "No se pudo conectar con el servidor",
+    "retry": "Reintentar",
+    "stats": {
+      "appointments_today": "Citas Hoy",
+      "completed_appointments": "completadas",
+      "available_rooms": "Salas Disponibles",
+      "total_rooms": "de {{total}} totales",
+      "pending_tasks": "Tareas Pendientes",
+      "to_complete": "por completar",
+      "critical_alerts": "Alertas Críticas",
+      "require_attention": "requieren atención",
+      "ai_efficiency": "Eficiencia IA",
+      "optimization_active": "optimización activa",
+      "active_time": "Tiempo Activo",
+      "available_hours": "de {{total}}h disponibles"
+    },
+    "appointments": {
+      "title": "Citas del Día",
+      "no_appointments": "No hay citas programadas",
+      "no_appointments_description": "¡Perfecto día para ponerse al día con tareas administrativas!",
+      "reminder_not_sent": "Recordatorio no enviado",
+      "view": "Ver",
+      "confirm": "Confirmar",
+      "status": {
+        "confirmed": "Confirmada",
+        "scheduled": "Programada",
+        "in_progress": "En Curso",
+        "completed": "Completada",
+        "cancelled": "Cancelada"
+      },
+      "type": {
+        "presencial": "Presencial",
+        "virtual": "Virtual",
+        "telefonica": "Telefónica"
+      }
+    },
+    "rooms": {
+      "title": "Estado de Salas",
+      "available": "disponibles",
+      "occupied": "ocupadas",
+      "capacity": "Cap. {{capacity}}",
+      "available_at": "Disponible: {{time}}",
+      "current_appointment": "Cita Actual",
+      "ends_at": "Termina a las",
+      "equipment": "Equipamiento",
+      "details": "Detalles",
+      "status": {
+        "available": "Disponible",
+        "occupied": "Ocupada",
+        "maintenance": "Mantenimiento",
+        "reserved": "Reservada"
+      }
+    },
+    "tasks": {
+      "title": "Tareas del Día",
+      "pending": "pendientes",
+      "completed": "completadas",
+      "no_tasks": "No hay tareas programadas",
+      "no_tasks_description": "¡Excelente! Día libre de tareas administrativas.",
+      "overdue": "Tarea vencida",
+      "patient": "Paciente: {{name}}",
+      "estimated_duration": "~{{duration}} min",
+      "details": "Detalles",
+      "type": {
+        "clinical": "Clínica",
+        "administrative": "Administrativa",
+        "follow_up": "Seguimiento",
+        "evaluation": "Evaluación"
+      },
+      "priority": {
+        "high": "Alta",
+        "medium": "Media",
+        "low": "Baja"
+      }
+    },
+    "alerts": {
+      "title": "Alertas Inteligentes",
+      "critical": "críticas",
+      "active": "activas",
+      "all_clear": "¡Todo bajo control!",
+      "all_clear_description": "No hay alertas activas en este momento.",
+      "ai_suggestions": "Sugerencias de IA:",
+      "act": "Actuar",
+      "resolve": "Resolver",
+      "type": {
+        "conflict": "Conflicto",
+        "reminder": "Recordatorio",
+        "warning": "Advertencia",
+        "info": "Información",
+        "urgent": "Urgente"
+      },
+      "severity": {
+        "critical": "Crítica",
+        "high": "Alta",
+        "medium": "Media",
+        "low": "Baja"
+      }
+    }
+  }
+}
